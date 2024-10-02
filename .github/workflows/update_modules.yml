@@ -1,0 +1,13 @@
+name: Update Modules
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-modules:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Update
+        run: curl -X GET https://benjamin.kuperberg.fr/chataigne/releases/update_modules.php
