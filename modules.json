@@ -69,6 +69,8 @@
     "https://raw.githubusercontent.com/nicolaserard/FreeD-Chataigne-Module/main/module.json",
     "https://raw.githubusercontent.com/alex-Arc/Ontime-Chataigne-module/main/module.json",
     "https://raw.githubusercontent.com/DonGuig/Opening-Times-Chataigne-Module/main/module.json",
-    "https://raw.githubusercontent.com/lupin3rd/vimix-chataigne-module/main/module.json"
+    "https://raw.githubusercontent.com/lupin3rd/vimix-chataigne-module/main/module.json",
+    "https://raw.githubusercontent.com/colneck/panasonic-projector-tcp-chataigne-module/main/module.json",
+    "https://raw.githubusercontent.com/colneck/panasonic-projector-serial-chataigne-module/main/module.json"
   ]
 }
