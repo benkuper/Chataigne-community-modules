@@ -71,6 +71,8 @@
     "https://raw.githubusercontent.com/DonGuig/Opening-Times-Chataigne-Module/main/module.json",
     "https://raw.githubusercontent.com/lupin3rd/vimix-chataigne-module/main/module.json",
     "https://raw.githubusercontent.com/colneck/panasonic-projector-tcp-chataigne-module/main/module.json",
-    "https://raw.githubusercontent.com/colneck/panasonic-projector-serial-chataigne-module/main/module.json"
+    "https://raw.githubusercontent.com/colneck/panasonic-projector-serial-chataigne-module/main/module.json",
+    "https://raw.githubusercontent.com/zak-45/SCAnalyzer-Chataigne-Module/refs/heads/main/module.json",
+    "https://raw.githubusercontent.com/zak-45/SpleeterGUI-Chataigne-Module/refs/heads/main/module.json"
   ]
 }
