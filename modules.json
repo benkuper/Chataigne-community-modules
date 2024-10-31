@@ -2,7 +2,6 @@
   "definitions": [
     "https://raw.githubusercontent.com/benkuper/VLC-Chataigne-Module/master/module.json",
     "https://raw.githubusercontent.com/jonglissimo/Light-Control-Chataigne-Module/master/module.json",
-    "https://raw.githubusercontent.com/norbertrostaing/DMXAdvancedForChataigne/main/module.json",
     "https://raw.githubusercontent.com/yastefan/grandMA3-Chataigne-Module/main/module.json",
     "https://raw.githubusercontent.com/benkuper/EOS-OSC-Chataigne-Module/master/module.json",
     "https://raw.githubusercontent.com/Edrig/OBS-Websocket-Chataigne-Module/main/module.json",
@@ -73,6 +72,7 @@
     "https://raw.githubusercontent.com/colneck/panasonic-projector-tcp-chataigne-module/main/module.json",
     "https://raw.githubusercontent.com/colneck/panasonic-projector-serial-chataigne-module/main/module.json",
     "https://raw.githubusercontent.com/zak-45/SCAnalyzer-Chataigne-Module/refs/heads/main/module.json",
-    "https://raw.githubusercontent.com/zak-45/SpleeterGUI-Chataigne-Module/refs/heads/main/module.json"
+    "https://raw.githubusercontent.com/zak-45/SpleeterGUI-Chataigne-Module/refs/heads/main/module.json",
+    "https://raw.githubusercontent.com/norbertrostaing/dmxSequencePlayerChataigne/main/module.json"
   ]
 }
