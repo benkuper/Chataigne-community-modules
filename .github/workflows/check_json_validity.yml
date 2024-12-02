@@ -1,0 +1,14 @@
+on:
+  pull_request:
+    branches:
+      - main
+jobs:
+  check_json:
+    runs-on: ubuntu-latest
+    name: Check if modules.json is valid JSON
+    steps:
+      - uses: actions/checkout@v4
+      - name: check-json-validity
+        uses: johnstonmatt/is-valid-json-action@v.1.0.1
+        with:
+          path-to-file: './modules.json'
