@@ -79,6 +79,7 @@
     "https://raw.githubusercontent.com/tobyroworth/ETC-Smartfade-ML_Chataigne/refs/heads/main/module.json",
     "https://raw.githubusercontent.com/pierrelemmel/chataigne-openpose/master/module/module.json",
     "https://raw.githubusercontent.com/gniluje/RLY88-Chataigne-Module/refs/heads/main/module.json",
-    "https://raw.githubusercontent.com/madees/Grapes-Chataigne-Module/main/module.json"
+    "https://raw.githubusercontent.com/madees/Grapes-Chataigne-Module/main/module.json",
+    "https://raw.githubusercontent.com/pierrelemmel/chataigne-speech-to-text/master/module/module.json"
   ]
 }
