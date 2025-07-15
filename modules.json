@@ -85,6 +85,7 @@
     "https://raw.githubusercontent.com/pierrelemmel/chataigne-speech-to-text/master/module/module.json",
     "https://raw.githubusercontent.com/lukasklingebiel/CODA-SPACE-HUB-Chataigne-Module/main/module.json",
     "https://raw.githubusercontent.com/DeadFlamingo/Live-Link-Face-Chataigne-module/refs/heads/main/module.json",
-    "https://raw.githubusercontent.com/JohnnyMaus/Aja_kumo_http_chataigne_module/refs/heads/main/module.json"
+    "https://raw.githubusercontent.com/JohnnyMaus/Aja_kumo_http_chataigne_module/refs/heads/main/module.json",
+    "https://raw.githubusercontent.com/zecktos/shelly-rgbw-chataigne-module/master/module.json"
   ]
 }
