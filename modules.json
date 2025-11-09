@@ -88,6 +88,13 @@
     "https://raw.githubusercontent.com/DeadFlamingo/Live-Link-Face-Chataigne-module/refs/heads/main/module.json",
     "https://raw.githubusercontent.com/JohnnyMaus/Aja_kumo_http_chataigne_module/refs/heads/main/module.json",
     "https://raw.githubusercontent.com/zecktos/shelly-rgbw-chataigne-module/master/module.json",
-    "https://raw.githubusercontent.com/noodles4694/Hive-Chataigne-Module/refs/heads/main/module.json"
+    "https://raw.githubusercontent.com/noodles4694/Hive-Chataigne-Module/refs/heads/main/module.json",
+    "https://raw.githubusercontent.com/DonGuig/Netio-2KZ-Chataigne-module/refs/heads/main/module.json",
+    "https://raw.githubusercontent.com/DonGuig/Mitti-Chataigne-module/refs/heads/main/module.json",
+    "https://raw.githubusercontent.com/DonGuig/Blackmagic-VideoHub-Chataigne-Module/refs/heads/main/module.json",
+    "https://raw.githubusercontent.com/DonGuig/HAL-Media-Player-Chataigne-module/refs/heads/main/module.json",
+    "https://raw.githubusercontent.com/DonGuig/Shelly-chataigne-module/refs/heads/main/module.json",
+    "https://raw.githubusercontent.com/DonGuig/L-Acoustics-Amps-HTTP-Chataigne-module/refs/heads/main/module.json",
+    "https://raw.githubusercontent.com/DonGuig/Hyperdeck-Chataigne-module/refs/heads/main/module.json"
   ]
 }
