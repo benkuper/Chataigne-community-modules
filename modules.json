@@ -2,9 +2,10 @@
   "definitions": [
     "https://raw.githubusercontent.com/madees/ADM-OSC-Chataigne-Module/main/module.json",
     "https://raw.githubusercontent.com/JohnnyMaus/Aja_kumo_http_chataigne_module/refs/heads/main/module.json",
+    "https://raw.githubusercontent.com/cunabula27/APC40-MkII-Chataigne-Module/refs/heads/master/module.json",
+    "https://raw.githubusercontent.com/ziginfo/APC-Key25-Chataigne-Module/main/module.json",
     "https://raw.githubusercontent.com/Edrig/Akai-APC-MINI-Chataigne-Module/main/module.json",
     "https://raw.githubusercontent.com/lenschcode/APC-Mini-mkII-Chataigne-Module/master/module.json",
-    "https://raw.githubusercontent.com/ziginfo/APC-Key25-Chataigne-Module/main/module.json",
     "https://raw.githubusercontent.com/eLandon/ASRT-Calendar/refs/heads/main/module.json",
     "https://raw.githubusercontent.com/eLandon/ASRT-Scheduler/refs/heads/main/module.json",
     "https://raw.githubusercontent.com/manu-44/OSC-to-AtemOSC-Chataigne-Module/master/module.json",
