@@ -100,6 +100,7 @@
     "https://raw.githubusercontent.com/DrMicka/WaveLink-Chataigne_Module/main/module.json",
     "https://raw.githubusercontent.com/zak-45/WLED-Chataigne-Module/main/module.json",
     "https://raw.githubusercontent.com/iniqmyers/XTouch-Universal-Chataigne-Module/master/module.json",
-    "https://raw.githubusercontent.com/benkuper/XTouch-Mini-Chataigne-Module/main/module.json"
+    "https://raw.githubusercontent.com/benkuper/XTouch-Mini-Chataigne-Module/main/module.json",
+    "https://raw.githubusercontent.com/benkuper/VESC-Chataigne-Module/main/module.json"
   ]
 }
