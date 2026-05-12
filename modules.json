@@ -49,6 +49,7 @@
     "https://raw.githubusercontent.com/benkuper/Lighttoys-FT-UDP-Module/master/module.json",
     "https://raw.githubusercontent.com/DeadFlamingo/Live-Link-Face-Chataigne-module/refs/heads/main/module.json",
     "https://raw.githubusercontent.com/ziginfo/Liveprofessor-Chataigne-Module/main/module.json",
+    "https://raw.githubusercontent.com/casafrog/Live-Cue-List-Show-Creator-Chataigne-Module-main/main/module.json",
     "https://raw.githubusercontent.com/ziginfo/Live-OSC-Chataigne-Module/main/module.json",
     "https://raw.githubusercontent.com/ziginfo/LogicPro-Chataigne-Module/main/module.json",
     "https://raw.githubusercontent.com/vjandrea/Madrix5-Chataigne-module/refs/heads/main/module.json",
@@ -93,6 +94,7 @@
     "https://raw.githubusercontent.com/jimdelois/Timecode-Expert-2-Chataigne-Module/refs/heads/main/module.json",
     "https://raw.githubusercontent.com/ziginfo/Totalmix-Chataigne-Module/main/module.json",
     "https://raw.githubusercontent.com/DrMicka/TwitchChat-ChataigneModule/main/module.json",
+    "https://raw.githubusercontent.com/benkuper/VESC-Chataigne-Module/main/module.json",
     "https://raw.githubusercontent.com/lupin3rd/vimix-chataigne-module/main/module.json",
     "https://raw.githubusercontent.com/benkuper/VLC-Chataigne-Module/master/module.json",
     "https://raw.githubusercontent.com/Guesn/Voicemeeter-Chataigne-Module/main/module.json",
@@ -100,7 +102,6 @@
     "https://raw.githubusercontent.com/DrMicka/WaveLink-Chataigne_Module/main/module.json",
     "https://raw.githubusercontent.com/zak-45/WLED-Chataigne-Module/main/module.json",
     "https://raw.githubusercontent.com/iniqmyers/XTouch-Universal-Chataigne-Module/master/module.json",
-    "https://raw.githubusercontent.com/benkuper/XTouch-Mini-Chataigne-Module/main/module.json",
-    "https://raw.githubusercontent.com/benkuper/VESC-Chataigne-Module/main/module.json"
+    "https://raw.githubusercontent.com/benkuper/XTouch-Mini-Chataigne-Module/main/module.json"
   ]
 }
