@@ -1,6 +1,7 @@
 {
   "definitions": [
     "https://raw.githubusercontent.com/madees/ADM-OSC-Chataigne-Module/main/module.json",
+    "https://raw.githubusercontent.com/casafrog/AH-QuMidi-Chataigne-Module/main/module.json",
     "https://raw.githubusercontent.com/JohnnyMaus/Aja_kumo_http_chataigne_module/refs/heads/main/module.json",
     "https://raw.githubusercontent.com/cunabula27/APC40-MkII-Chataigne-Module/refs/heads/master/module.json",
     "https://raw.githubusercontent.com/ziginfo/APC-Key25-Chataigne-Module/main/module.json",
