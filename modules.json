@@ -78,6 +78,7 @@
     "https://raw.githubusercontent.com/pierrelemmel/chataigne-openpose/master/module/module.json",
     "https://raw.githubusercontent.com/colneck/panasonic-projector-tcp-chataigne-module/main/module.json",
     "https://raw.githubusercontent.com/colneck/panasonic-projector-serial-chataigne-module/main/module.json",    
+    "https://raw.githubusercontent.com/JamesAdvatek/PixLite-Mk3-Chataigne/main/module.json",
     "https://raw.githubusercontent.com/ziginfo/QLab-OSC-Chataigne-Module/main/module.json",    
     "https://raw.githubusercontent.com/ziginfo/Reaper-OSC-Chataigne-Module/main/module.json",
     "https://raw.githubusercontent.com/gniluje/RLY88-Chataigne-Module/refs/heads/main/module.json",
